@@ -1,5 +1,0 @@
-Projekt in Java Spring
-
-Beschreibung:
-
-(vlt Pflichtenheft und Diagramme erstellen)
